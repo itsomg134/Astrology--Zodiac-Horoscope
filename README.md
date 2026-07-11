@@ -2,7 +2,7 @@
 
 A beautifully crafted, interactive web application that delivers daily horoscopes for all 12 zodiac signs. Built with pure HTML, CSS, and JavaScript — no dependencies required.
 
-![Astrology App Preview](https://via.placeholder.com/800x400.png?text=Astrology+App+Preview)
+<img width="1874" height="1372" alt="image" src="https://github.com/user-attachments/assets/1552440f-93b9-49f3-ab25-6d4d1f8d508a" />
 
 ## 🌟 Features
 
