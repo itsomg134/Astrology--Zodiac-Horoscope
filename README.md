@@ -81,7 +81,7 @@ Modify the CSS variables in the `:root` or style section:
 - **Tablet**: 700px – Adjusted padding and font sizes
 - **Mobile**: 480px – 3-column grid for signs
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 astrology-app/
@@ -90,7 +90,7 @@ astrology-app/
 └── assets/             # (Optional) Images, icons, etc.
 ```
 
-## 🌐 Browser Support
+## Browser Support
 
 | Browser | Version |
 |---------|---------|
@@ -100,7 +100,7 @@ astrology-app/
 | Edge    | 79+     |
 | Opera   | 47+     |
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
