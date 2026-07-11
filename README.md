@@ -4,7 +4,7 @@ A beautifully crafted, interactive web application that delivers daily horoscope
 
 <img width="1874" height="1372" alt="image" src="https://github.com/user-attachments/assets/1552440f-93b9-49f3-ab25-6d4d1f8d508a" />
 
-## 🌟 Features
+## Features
 
 - **All 12 Zodiac Signs** – Complete collection with symbols and date ranges
 - **Daily Horoscopes** – Unique, randomized messages for each sign
