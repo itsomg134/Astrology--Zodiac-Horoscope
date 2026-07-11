@@ -1,4 +1,4 @@
-# ✨ Astrology · Zodiac Horoscope
+# Astrology · Zodiac Horoscope
 
 A beautifully crafted, interactive web application that delivers daily horoscopes for all 12 zodiac signs. Built with pure HTML, CSS, and JavaScript — no dependencies required.
 
