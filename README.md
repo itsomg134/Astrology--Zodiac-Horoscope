@@ -15,14 +15,14 @@ A beautifully crafted, interactive web application that delivers daily horoscope
 - **Daily Updates** – Shows current date and fresh horoscope content
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Semantic markup structure
 - **CSS3** – Custom properties, flexbox, grid, backdrop filters
 - **Vanilla JavaScript** – ES6+ features, DOM manipulation
 - **Glass-morphism** – Modern frosted glass UI effects
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
