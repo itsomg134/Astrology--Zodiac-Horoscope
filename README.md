@@ -40,7 +40,7 @@ A beautifully crafted, interactive web application that delivers daily horoscope
 
 3. **No build tools or server required** – it's a static HTML file!
 
-## 🎨 Customization
+## Customization
 
 ### Adding New Horoscope Messages
 
