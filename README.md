@@ -128,11 +128,11 @@ Contributions are welcome! Here's how you can help:
 - Ensure responsive behavior
 - Test across different screen sizes
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Zodiac symbols and dates based on traditional Western astrology
 - Design inspiration from modern glass-morphism trends
