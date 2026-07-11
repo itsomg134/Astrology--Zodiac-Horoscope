@@ -1,6 +1,6 @@
 # Astrology · Zodiac Horoscope
 
-A beautifully crafted, interactive web application that delivers daily horoscopes for all 12 zodiac signs. Built with pure HTML, CSS, and JavaScript — no dependencies required.
+A beautifully crafted, interactive web application that delivers daily horoscopes for all 12 zodiac signs. Built with pure HTML, CSS, and JavaScript no dependencies required.
 
 <img width="1874" height="1372" alt="image" src="https://github.com/user-attachments/assets/1552440f-93b9-49f3-ab25-6d4d1f8d508a" />
 
@@ -14,17 +14,6 @@ A beautifully crafted, interactive web application that delivers daily horoscope
 - **Zero Dependencies** – Pure vanilla JavaScript, no external libraries
 - **Daily Updates** – Shows current date and fresh horoscope content
 
-## 🚀 Live Demo
-
-[View Live Demo](#) *(Add your deployment link here)*
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/600x400.png?text=Desktop+View)
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x500.png?text=Mobile+View)
 
 ## 🛠️ Technologies Used
 
